@@ -12,7 +12,7 @@ AVR Library
 などです．
 
 Copyright (C) Hirokazu Yokoyama(hiroyky), Gifu University Robocon Circle, 2012 All rights Reserved.
-
+MITライセンスに基づいて配布されています．
 
 # libavr
 AVR Library
@@ -27,3 +27,4 @@ For example:
 - Interfacing Playstation Controller(Dualshock1 or 2)
 
 Copyright (C) Hirokazu Yokoyama(hiroyky), Gifu University Robocon Circle, 2012 All rights Reserved.
+Released under the MIT lisence
