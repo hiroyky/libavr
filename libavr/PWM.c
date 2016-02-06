@@ -8,7 +8,6 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "PWM.h"
-#include "grobo.h"
 
 /**
  * タイマー0をPWM用に初期化します。

@@ -8,7 +8,6 @@
 #ifndef PWM_H_
 #define PWM_H_
 
-#include "grobo.h"
 
 // タイマのプリンスケーラ(分周比)
 typedef enum PWM_Prescaler {

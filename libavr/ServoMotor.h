@@ -10,7 +10,6 @@
 #define SERVOMOTOR_H_
 
 #include <avr/io.h>
-#include "grobo.h"
 
 typedef enum ServoMotor_Selector0 {
 	ServoMotor_0A = 1,

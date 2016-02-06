@@ -13,8 +13,6 @@
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
-#include "grobo.h"
-
 
 typedef enum USART_InitMode {
 	// í èÌUSARTí êM

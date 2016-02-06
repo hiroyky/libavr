@@ -8,7 +8,6 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "timer.h"
-#include "grobo.h"
 
 static void (*Timer0_compAMatchHandler)(void);
 static void (*Timer0_compBMatchHandler)(void);

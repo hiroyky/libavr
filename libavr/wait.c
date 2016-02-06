@@ -6,8 +6,7 @@
  */ 
 
 
-#include <util/delay.h>
-#include "grobo.h"
+#include "wait.h"
 
 /**
  * マイクロ秒待機

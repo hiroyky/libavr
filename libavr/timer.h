@@ -11,8 +11,6 @@
 #ifndef TIMER_H_
 #define TIMER_H_
 
-#include "grobo.h"
-
 /**
  * タイマのプリンスケーラ(分周比)
  */
